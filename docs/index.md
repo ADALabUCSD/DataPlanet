@@ -20,20 +20,31 @@ shareable, and searchable data-intensive research at UC San Diego
 ---
 
 ## About 
+### Data Management: Then vs Now.
 
-Dataverse           |  Dataset
+Then |  Now
 :-------------------------:|:-------------------------:
-![](images/Dataverse.png)  |  ![](images/Dataset.png)
+![](images/then.png)  |  ![](images/now.png)
 
 - Enjoy full control over your data. Receive web visibility, academic credit, and increased citation counts. A personal Dataverse collection is easy to set up, allows you to display your data on your personal website, can be branded uniquely as your research program, makes your data more discoverable to the research community, and satisfies data management plans. 
 - Seamlessly manage the submission, review, and publication of data associated with published articles. Establish an unbreakable link between articles in your journal and associated data. Participate in the open data movement by using a Dataverse collection as part of your journal data policy or list of repository recommendations.
 - Establish a research data management solution for your community. Federate with a growing list of Dataverse repositories worldwide for increased discoverability of your community’s data. Participate in the drive to set norms for sharing, preserving, citing, exploring, and analyzing research data. 
 
+### Two wings of DataPlanet:
+
+Secure-private sharing uising Dataverse           |  "Data Nuggets" for Public Sharing
+:-------------------------:|:-------------------------:
+For both in-progress and published research. | Resource for educators and learners inside/outside UCSD.
+Files can stay at UCSD. | For completed / published work.
+ Levels of access control. | Files on public cloud.
+
+### What exactly is Dataverse?
+![](images/tech.png)
 
 
 ## Acknowledgements
 
-This work was supported by grant number # from HDSI. It was also supported in part by a #, an NSF CAREER Award under award number #, and gifts from #. 
+This work was supported by from HDSI. It was hosted on SDSC. 
 
 ## License
 

@@ -22,7 +22,7 @@ shareable, and searchable data-intensive research at UC San Diego
 ## About 
 ### Data Management: Then vs Now.
 
-Then           |  Now
+Then |  Now
 :-------------------------:|:-------------------------:
 ![](images/then.png)  |  ![](images/now.png)
 
@@ -31,11 +31,15 @@ Then           |  Now
 - Establish a research data management solution for your community. Federate with a growing list of Dataverse repositories worldwide for increased discoverability of your community’s data. Participate in the drive to set norms for sharing, preserving, citing, exploring, and analyzing research data. 
 
 ### Two wings of DataPlanet:
+
 Secure-private sharing uising Dataverse           |  "Data Nuggets" for Public Sharing
 :-------------------------:|:-------------------------:
-For both in-progress and published research |  Data artifacts from your repo, made easy to share.
-Dynamic access control for data, advanced user management. | Permalinks for nuggets, embeddable in websites.
+For both in-progress and published research. | Resource for educators and learners inside/outside UCSD.
+Files can stay at UCSD. | For completed / published work.
+ Levels of access control. | Files on public cloud.
 
+### What exactly is Dataverse?
+![](images/tech.png)
 
 
 ## Acknowledgements
